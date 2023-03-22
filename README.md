@@ -1,1 +1,5 @@
-# Simple-Page-Resume
+## Мое резюме
+
+- Это простая страница[посмотрите сами](https://boris240873.github.io/simple-page-resume/)
+- Используется фотография и текст
+
